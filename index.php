@@ -33,7 +33,6 @@
     <!-- Left navbar links -->
     <?php include 'nav.php' ?>
   </nav>
-  <!-- /.navbar -->
 
   <!-- Main Sidebar Container -->
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
@@ -138,9 +137,7 @@
               <a href="users.php" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
-								
-
-          
+							
 
           <!-- ./col -->
         </div>
@@ -150,25 +147,13 @@
           <!-- Left col -->
           <section class="col-lg-7 connectedSortable">
             <!-- Custom tabs (Charts with tabs)-->
-            
-            <!-- /.card -->
 
-            <!-- DIRECT CHAT -->
-            
-            <!--/.direct-chat -->
-
-            <!-- TO DO List -->
           
             <!-- /.card -->
           </section>
           <!-- /.Left col -->
           <!-- right col (We are only adding the ID to make the widgets sortable)-->
           <section class="col-lg-5 connectedSortable">
-
-
-            <!-- /.card -->
-
-            <!-- Calendar -->
 
             <!-- /.card -->
           </section>
@@ -190,7 +175,6 @@
   </aside>
   <!-- /.control-sidebar -->
 </div>
-<!-- ./wrapper -->
 
 <!-- jQuery -->
 <script src="plugins/jquery/jquery.min.js"></script>
