@@ -31,7 +31,7 @@
   <!-- Navbar -->
   <nav class="main-header navbar navbar-expand navbar-white navbar-light">
     <!-- Left navbar links -->
-    <?php include 'nav.php' ?>
+  <?php include 'nav.php' ?>
   </nav>
 
   <!-- Main Sidebar Container -->
@@ -52,7 +52,6 @@
         </div><!-- /.row -->
       </div><!-- /.container-fluid -->
     </div>
-    <!-- /.content-header -->
 
     <!-- Main content -->
     <section class="content">
@@ -154,7 +153,6 @@
           <!-- /.Left col -->
           <!-- right col (We are only adding the ID to make the widgets sortable)-->
           <section class="col-lg-5 connectedSortable">
-
             <!-- /.card -->
           </section>
           <!-- right col -->
