@@ -23,6 +23,7 @@
         }
     </style>
 </head>
+
 <body>
 <div id="container">
         <header>
@@ -60,6 +61,7 @@
         } ?>
     </table>
 	</div>
+    
 </div>
 </body>
 </html>
